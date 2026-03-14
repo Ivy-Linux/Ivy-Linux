@@ -13,6 +13,8 @@ Minor updates will release every 3-4 weeks with Major updates releasing based on
 ## What Is The Future of Ivy Linux?
 As Ivy Linux continues to bloom, more features and customization is added to make Ivy feel like home. Currently, the latest version of Ivy Linux is 1.0 "Primrose", as it is the first flower to bloom in spring.
 
+![Ivy Linux 1.0 "Primrose" Preview](Primrose-Preview.png)
+
 ## Feel Free To Ask Any Questions Or Report Any Bugs!
 Remember, Ivy Linux is not poisonous!
  
