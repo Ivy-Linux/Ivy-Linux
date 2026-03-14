@@ -15,3 +15,22 @@ As Ivy Linux continues to bloom, more features and customization is added to mak
 
 ## Feel Free To Ask Any Questions Or Report Any Bugs!
 Remember, Ivy Linux is not poisonous!
+ 
+                  4672                  
+                75544453                
+              46555544446=              
+             962        047             
+           +71            =5_           
+          27_     5556      41          
+         =80     888888     +40         
+        _98     78888887     44+        
+        896    4888888884    444        
+       3997    3888888883    4449       
+      .8999     68888886     4444=      
+      388993     388883     054448      
+      888899=     8888     _555444      
+     _78888995            365555441     
+     27788889996_      .46666555545     
+     477788889999988887777666655554     
+       +3778889999988887777666760       
+           .+146899998898630_          
